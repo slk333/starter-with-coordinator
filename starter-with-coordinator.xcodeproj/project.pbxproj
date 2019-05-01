@@ -24,6 +24,7 @@
 		2F528A6F227A551E00B87826 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F528A71227A551E00B87826 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2F528A77227A572D00B87826 /* Coordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Coordinator.swift; sourceTree = "<group>"; };
+		2F75490C227A5C0000C7BACF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				2F528A65227A551C00B87826 /* AppDelegate.swift */,
+				2F75490C227A5C0000C7BACF /* README.md */,
 				2F528A77227A572D00B87826 /* Coordinator.swift */,
 				2F528A67227A551C00B87826 /* ViewController.swift */,
 				2F528A69227A551C00B87826 /* Main.storyboard */,
