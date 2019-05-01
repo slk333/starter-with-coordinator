@@ -41,6 +41,7 @@
 		2F528A59227A551B00B87826 = {
 			isa = PBXGroup;
 			children = (
+				2F75490C227A5C0000C7BACF /* README.md */,
 				2F528A64227A551C00B87826 /* starter-with-coordinator */,
 				2F528A63227A551B00B87826 /* Products */,
 			);
@@ -58,7 +59,6 @@
 			isa = PBXGroup;
 			children = (
 				2F528A65227A551C00B87826 /* AppDelegate.swift */,
-				2F75490C227A5C0000C7BACF /* README.md */,
 				2F528A77227A572D00B87826 /* Coordinator.swift */,
 				2F528A67227A551C00B87826 /* ViewController.swift */,
 				2F528A69227A551C00B87826 /* Main.storyboard */,
